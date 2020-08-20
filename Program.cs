@@ -10,7 +10,7 @@ namespace HelloWorld
 
             string name = Console.ReadLine();
 
-            Console.WriteLine("Hello" + "  " + name);
+            Console.WriteLine("Hello" + "  " + name + "Nice to have you here");
         }
     }
 }
